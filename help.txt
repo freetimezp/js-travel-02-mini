@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=ThaIBFd387A
 https://cdnjs.com/
 https://fontawesome.com/
 https://fonts.google.com/
+https://express.adobe.com/tools/resize-video
+https://bennettfeely.com/clippy/
